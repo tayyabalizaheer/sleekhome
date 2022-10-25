@@ -27,10 +27,31 @@ img {
     font-weight: normal;
     font-size: 18px;
 }
+.btn-theme{
+    font-family: 'Poppins SemiBold';
+    background-color: #e3b000 !important;
+    color: #ffff !important;
+    border-radius: 0;
+    font-size: 18px;
+    padding: 8px 30px;
+    font-weight: 600
+}
+.watermark{
+    width: 55%;
+    position: absolute;
+    left: 15px;
+}
 .sm-heading{
     font-family: 'Poppins Regular';
     color: #e3b000 !important;
     font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.h2 {
+    font-family: 'Poppins Regular';
+    color: #e3b000 !important;
+    font-size: 35px;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -104,4 +125,52 @@ img {
 .swiper-rtl .swiper-button-prev {
     right: unset !important;
     left: 52px !important;
+}
+.main h1{
+    font-family: 'Poppins Bold';
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.main-left{
+    background-color: #F7F7F7;
+}
+.how-we-are img{
+    border: 1px solid black;
+    height: 300px;
+}
+
+.how-we-are .left .img-container{
+    position: relative;
+}
+.how-we-are .left span{
+    font-family: 'Poppins Regular';
+    color: #e3b000 !important;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    right: -60px;
+    top: 30px;
+    transform: rotate(-90deg);
+}
+.how-we-are .left h3 {
+    font-family: 'Poppins Regular';
+}
+.how-we-are .right p {
+    font-family: 'Poppins Regular';
+    font-size: 18px;
+    text-align: right;
+    padding-right: 95px;
+}
+.line{
+    position: relative;
+}
+.line::before{
+    content: "";
+    width: 50px;
+    position: absolute;
+    top: 45px;
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 3px solid #e3b000;
 }

@@ -1,0 +1,38 @@
+{
+    "landlord" : [
+        {
+            "question": "What type of properties do we take on?",
+            "answer": "We specialised in House of Multiple Occupancies: HMO"
+        },
+        {
+            "question": "How quick is the process?",
+            "answer": "If your property is licensed, compliant, and in good shape, then it could be up and running in just few weeks."
+        },
+        {
+            "question": "How do I get paid?",
+            "answer": "We will deposit the agreed amount into your account on the same date each month."
+        },
+        {
+            "question": "Does my property need to be furnished?",
+            "answer": "We are happy to work with both furnished and unfurnished properties. In addition, we provide a refurbishment service to keep your property to a high standard. All these options are work out in our deals. "
+        },
+        {
+            "question": "How will I know if my property is kept in good condition?",
+            "answer": "We thrive to keep high standards, and therefore we will make regular visit to the property, and we will keep you updated."
+        }
+    ],
+    "tenant": [ 
+        {
+            "question": "Do I need to pay a deposit?",
+            "answer": "Yes, usually a deposit equivalent of 1 month rent would be needed."
+        },
+        {
+            "question": "How quickly can I rent my new room?",
+            "answer": "After completing all our checks, moving in can take only a few days."
+        },
+        {
+            "question": "Do I need to pay any fees?",
+            "answer": "No, you won’t be charged any fees. "
+        }
+    ]
+}

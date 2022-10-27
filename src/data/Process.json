@@ -1,0 +1,22 @@
+[
+    {
+        "title" : "We guarantee your rent Every Single Month",
+        "icon" : "guarantee.png",
+        "description" : "Even if we encounter periods of voids, we will take the risks, not you. All you have to do is to enjoy your passive income."
+    },
+    {
+        "title": "Complete hands-off investment",
+        "icon": "investment.png",
+        "description": "Whether it’s advertising, recruiting tenants, conducting viewing or anything administrative task, Sleek Homes Solutions will fully manage your property for you!"
+    },
+    {
+        "title": "No more maintenance calls",
+        "icon": "call.png",
+        "description": "As the point of contact for your tenants, you will not have to worry about the hassles of maintenance calls and issues. We even pay for the minor repairs that your property may need."
+    },
+    {
+        "title": "Uplift your property value",
+        "icon": "value.png",
+        "description": "We strive to provide beautiful and top-range affordable homes. Sleek Homes Solutions will therefore endeavour to upgrade your property through whatever means possible, including refurbishments. "
+    }
+]

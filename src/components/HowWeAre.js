@@ -14,7 +14,7 @@ export default function HowWeAre() {
                 
             </div>
             <div className="col-md-6 col-12 right">
-                  <h3 className="line">How we are</h3>
+                  <h3 className="line">Who we are</h3>
                   <p className="mt-4">
                       Tired of struggling to recruit tenants and having to chase rent arrears? How about the endless maintenance calls and expensive agency fees?
                       You have found yourself in the right place! At Sleek Homes Solutions, we pride <br />

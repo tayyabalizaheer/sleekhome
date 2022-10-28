@@ -12,7 +12,7 @@ export default function AboutUs() {
             </span>
             <h3 className="line">About us</h3>
             <p className="mt-4">
-              Sleek Homes Solutions Ltd is run by 2 amazing long- time friends and now business partners Esther-Marie Umambo and Fortune Moore.
+              Sleek Homes Solutions Ltd is run by 2 amazing lifelong friends and now business partners Esther-Marie Umambo and Fortune Moore.
               <br /><br />
               Both Esther and Fortune are nurses who have always been interested in properties. Their role as nurse prompts them to help people on a daily basis, and this is the core focus of their services. They want all parties to benefit from their ethical,
               responsible and knowledgeable ways of managing properties.

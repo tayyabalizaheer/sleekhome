@@ -21,7 +21,7 @@ export default function HowWeAre() {
                       ourselves in managing every single aspect of your HMO, allowing you to spend time on the things which matter the most to you!
                     <br /><br />
                       Does it sound too good to be true? <br />
-                      As specialists in managing HMOs we are committed to proving you with a reliable, safe, and person-centred service. We are therefore established members of the Property Redress Scheme, the National Residential Landlord Association, the
+                      As specialists in managing HMOs we are committed to providing  you with a reliable, safe, and person-centred service. We are therefore established members of the Property Redress Scheme, the National Residential Landlord Association, the
                       Deposit Protection Service, and the Information Commission Officer.
 
                   </p>
